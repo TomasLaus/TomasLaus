@@ -5,7 +5,8 @@
 </p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tomás Laus | 💻 Full Stack Developer | Argentina  <img src="https://media.giphy.com/media/rEug7UFYzpvP2/giphy.gif" width="200"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tomás Laus | 💻 Full Stack Developer | Argentina <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fflagdownload.com%2Fwp-content%2Fuploads%2FFlag_of_Argentina_Flat_Round-1024x1024.png&f=1&nofb=1" width="30"></h3>
+  <img src="https://media.giphy.com/media/rEug7UFYzpvP2/giphy.gif" width="500">
 </div>
 
 
@@ -31,6 +32,10 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+   <img src="media/eclipse.png" alt="redux" style="vertical-align:top; margin:6px 4px">
+  <img src="media/figma.png" alt="figma" style="vertical-align:top; margin:6px 4px">
+  <img src="media/lesscss.png" alt="less" style="vertical-align:top; margin:6px 4px">
+  <img src="media/PostgreSQL.png" alt="less" style="vertical-align:top; margin:6px 4px">
   
 
 
@@ -48,3 +53,16 @@
 </p>
 
 <br />
+
+ ### <h1>What i do</h1>
+
+<br />
+
+<p align="center">
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   </p>
+   
+   
+<br />
+
+<h4 align='center'>⚡️<i>Happy Hacking!</i>⚡️</h4>
