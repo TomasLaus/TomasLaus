@@ -54,7 +54,7 @@
 
 <br />
 
- ### <h1>What i do</h1>
+ ### <h1>What I do</h1>
 
 <br />
 
