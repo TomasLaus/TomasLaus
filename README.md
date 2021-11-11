@@ -33,7 +33,6 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
    <img src="media/eclipse.png" alt="redux" style="vertical-align:top; margin:6px 4px">
-  <img src="media/figma.png" alt="figma" style="vertical-align:top; margin:6px 4px">
   <img src="media/lesscss.png" alt="less" style="vertical-align:top; margin:6px 4px">
   <img src="media/PostgreSQL.png" alt="less" style="vertical-align:top; margin:6px 4px">
   
