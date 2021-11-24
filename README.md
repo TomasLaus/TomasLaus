@@ -1,7 +1,7 @@
 <h1>Hi there, I'm <a href="https://github.com/TomasLaus">Tomás</a><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width=40 height=40/> <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px"></h1>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/tom%C3%A1s-laus-34978a204/" ><img src="https://www.svgrepo.com/show/157006/linkedin.svg" width=40 height=40 /></a>
+  <a href="https://www.linkedin.com/in/tomaslaus/" ><img src="https://www.svgrepo.com/show/157006/linkedin.svg" width=40 height=40 /></a>
 </p>
 
 <div align="center">
