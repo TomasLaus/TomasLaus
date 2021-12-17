@@ -47,10 +47,10 @@
 
 <p align="center" >
    <a href="https://github.com/TomasLaus/github-readme-stats"> 
-   <img  src="https://github-readme-stats.vercel.app/api?username=TomasLaus&&show_icons=true&theme=radical"/>
+   <img  src="https://github-readme-stats.vercel.app/api?username=TomasLaus&&show_icons=true&theme=radical&count_private=true&hide=stars,prs,issues,contribs"/>
  </a>
-
 </p>
+
 
 <br />
 
