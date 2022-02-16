@@ -25,9 +25,7 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">   
     <img src="media/lesscss.png" alt="less" style="vertical-align:top; margin:6px 4px">
-  
-  <br />
-    <img src="media/PostgreSQL.png" alt="less" style="vertical-align:top; margin:6px 4px">
+    <img src="media/psql.svg" alt="psql" style="vertical-align:top; margin:6px 4px">
   <img src="media/mongo.svg" alt="mongo" style="vertical-align:top; margin:6px 4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
 
