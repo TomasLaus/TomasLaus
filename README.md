@@ -55,8 +55,11 @@
 
 <h2 align='center'>💻<i>Reach Me!</i>📲</h2>
 <p align='center'>
-  <a href="https://tomaslaus.vercel.app/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fseo-internet-marketing-6%2F256%2FPortfolio-512.png&f=1&nofb=1" width=50 height=60 /></a><br>
-  <a href="https://www.linkedin.com/in/tomaslaus/" ><img src="https://www.svgrepo.com/show/157006/linkedin.svg" width=50 height=60 /><i align='center'></i></a>
+  <a href="https://tomaslaus.vercel.app/">Portfolio&nbsp;&nbsp;&nbsp;<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fseo-internet-marketing-6%2F256%2FPortfolio-512.png&f=1&nofb=1" width=50 height=60 /></a>
+  <br>
+  <a href="https://www.linkedin.com/in/tomaslaus/" >LinkedIn&nbsp;&nbsp;&nbsp;<img src="https://www.svgrepo.com/show/157006/linkedin.svg" width=50 height=60 /><i align='center'></i></a>
+   <br>
+  <a href="mailto:tomaslaus99@gmail.com" >Mail&nbsp;&nbsp;&nbsp;<img src="https://assets.easybroker.com/organization_files/74782/mail_123245.png" width=70 height=70 /><i align='center'></i></a>
 </p>
 
 <h2 align='center'>⚡️<i>Happy Hacking!</i>⚡️</h2>
