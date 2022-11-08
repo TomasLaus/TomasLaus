@@ -43,11 +43,6 @@
 
 <!--  -->
 
-<p align="center" >
-   <a href="https://github.com/TomasLaus/github-readme-stats"> 
-   <img  src="https://github-readme-stats.vercel.app/api?username=TomasLaus&&show_icons=true&theme=monokai&count_private=true&hide=stars,prs,issues,contribs&hide_border=true&border_radius=15"/>
- </a>
-</p>
 
 
 <br />
@@ -55,7 +50,7 @@
 
 <h2 align='center'>💻<i>Reach Me!</i>📲</h2>
 <p align='center'>
-  <a href="https://tomaslaus.vercel.app/">Portfolio&nbsp;&nbsp;&nbsp;<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fseo-internet-marketing-6%2F256%2FPortfolio-512.png&f=1&nofb=1" width=50 height=60 /></a>
+  <a href="https://tomaslaus.netlify.app/">Portfolio&nbsp;&nbsp;&nbsp;<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fseo-internet-marketing-6%2F256%2FPortfolio-512.png&f=1&nofb=1" width=50 height=60 /></a>
   <br>
   <a href="https://www.linkedin.com/in/tomaslaus/" >LinkedIn&nbsp;&nbsp;&nbsp;<img src="https://www.svgrepo.com/show/157006/linkedin.svg" width=50 height=60 /><i align='center'></i></a>
    <br>
