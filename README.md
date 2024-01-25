@@ -13,7 +13,7 @@
 
 ## 🌐 Portfolio:
 
-<a href="https://www.tomaslaus.com/" target='_blank'><img src="https://static.vecteezy.com/system/resources/thumbnails/009/346/267/small/3d-render-icon-yellow-folder-illustration-free-png.png" height="90px"  /></a>
+<a href="https://www.tomaslaus.com/" target="_blank"><img src="https://static.vecteezy.com/system/resources/thumbnails/009/346/267/small/3d-render-icon-yellow-folder-illustration-free-png.png" height="90px"  /></a>
 
 
 <div align="center" style="display:inline">
