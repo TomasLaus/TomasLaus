@@ -39,7 +39,8 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TomasLaus&show_icons=true&count_private=true&theme=monokai&hide=stars,issues,contribs)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=TomasLaus&show_icons=true&count_private=true&theme=monokai&hide=stars,issues,contribs) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=TomasLaus&theme=monokai)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
