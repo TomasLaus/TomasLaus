@@ -49,7 +49,7 @@ Here are a few of my projects. Check out my pinned repositories for more details
 
 ## 🤝 Let's Connect
 
-- **Portfolio:** [tomaslaus.com](https://www.tomaslaus.com/)
+<!-- - **Portfolio:** [tomaslaus.com](https://www.tomaslaus.com/) -->
 - **LinkedIn:** [in/tomaslaus](https://www.linkedin.com/in/tomaslaus/)
 - **Email:** [Reach out](mailto:tomaslausr@gmail.com)
 
