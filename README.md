@@ -22,7 +22,7 @@ I consider myself a problem-solver. I'm passionate about creating elegant, impac
 
 ### **Application Development**
 - **Desktop:** Swing
-- **Web:** Spring Boot, Django, Flask, React, Angular
+- **Web:** Node.js, Spring Boot, Django, React
 - **Cross-Platform:** Java
 
 ### **Infrastructure & Cloud**
