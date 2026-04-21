@@ -62,14 +62,6 @@ I consider myself a problem-solver. I'm passionate about creating elegant, impac
 - Implemented third-party API integrations to expand functionality and streamline data flow, resulting in a 12% uplift in user satisfaction.  
 - Optimized database queries and server response times, achieving a 25% performance improvement—valuable for large-scale real-time data processing.
 
-### **Full Stack Developer**  
-**GENDERLESS (Institutional E-Commerce Project, Unpaid)**  
-*April 2022 – May 2022*  
-- Developed a collaborative web app in weekly agile sprints, enhancing organization and accelerating delivery of core features.  
-- Engineered backend session management and deployed the application to Heroku, ensuring secure, real-time user access control.  
-- Assisted in Frontend design, building filters, session handling, shopping cart, and favorites functionality, with a focus on accessibility and usability—skills transferable to internal tool development in any industry.  
-
-
 ---
 
 ## 🎓 Education
